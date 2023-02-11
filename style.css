@@ -1,0 +1,35 @@
+h1{
+    width:100%;
+    background-color: grey;
+    padding:7px;
+    margin:0px;
+    font-size:60px;
+    color:white;
+}
+
+#snap{
+    font-size:20px;
+    width:10%;
+}
+
+#snap:hover{
+    transition:0.5s;
+    font-size:30px;
+    background-color: rgb(0, 201, 0);
+}
+
+#saveP{
+    font-size:20px;
+    width:15%;
+}
+
+#saveP:hover{
+    transition:0.5s;
+    font-size:30px;
+    background-color: rgb(0, 201, 0);
+    width:25%;
+}
+
+body{
+    background-image:url("Mustache-Background.jpeg");
+}
